@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": -0.1969, "lat": 5.556 },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 302.38,
+    "feels_like": 309.38,
+    "temp_min": 302.38,
+    "temp_max": 302.38,
+    "pressure": 1010,
+    "humidity": 84
+  },
+  "visibility": 8000,
+  "wind": { "speed": 4.63, "deg": 250 },
+  "clouds": { "all": 40 },
+  "dt": 1708681620,
+  "sys": {
+    "type": 1,
+    "id": 1126,
+    "country": "GH",
+    "sunrise": 1708668898,
+    "sunset": 1708712031
+  },
+  "timezone": 0,
+  "id": 2306104,
+  "name": "Accra",
+  "cod": 200
+}
